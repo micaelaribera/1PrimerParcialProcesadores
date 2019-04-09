@@ -29,10 +29,10 @@ x Tiempo de ejecución
 x 	  …unidad de registro y unidad de control en un solo chip.
 ## 8 ¿Cuál de estos buses es bidireccional?
 
- Bus de direcciones
+   Bus de direcciones
  x Bus de datos
- Bus de direcciones y bus de datos
- Ninguno de las anteriores
+   Bus de direcciones y bus de datos
+   Ninguno de las anteriores
 
 ## 9 Convierte los siguientes números a decimal:
 71 base8 = 57
