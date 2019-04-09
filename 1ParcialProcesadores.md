@@ -48,9 +48,12 @@ ABC base16 =2748
 ## 11 Usando el datasheet del PIC16F886 identifique los siguientes puntos:
 •	¿Qué conjunto de instrucciones (ISA) usa?
 
-•	¿Qué rango de frecuencias puede generar el oscilador interno?
 
+•	¿Qué rango de frecuencias puede generar el oscilador interno?
+      8MHz a 31KHz
+ 
 •	¿Cuántos bytes de RAM tiene específicamente el PIC16F886?
+      8 bits
 
 ## 12  Usando máscaras, escriba las instrucciones necesarias para hacer que los primeros 4 pines del puerto C sean entradas, y los 4 últimos sean salidas. De los pines configurados como salida, dos cualesquiera estarán altos, y dos bajos.
 
