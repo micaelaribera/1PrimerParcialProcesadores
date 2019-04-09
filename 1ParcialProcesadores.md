@@ -50,7 +50,7 @@ ABC base16 =2748
 
 
 •	¿Qué rango de frecuencias puede generar el oscilador interno?
-      8MHz a 31KHz
+    8Mhz a 31 kHz
  
 •	¿Cuántos bytes de RAM tiene específicamente el PIC16F886?
      368 bytes de memoria RAM
