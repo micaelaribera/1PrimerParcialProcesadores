@@ -53,7 +53,7 @@ ABC base16 =2748
       8MHz a 31KHz
  
 •	¿Cuántos bytes de RAM tiene específicamente el PIC16F886?
-      8 bits
+     368 bytes de memoria RAM
 
 ## 12  Usando máscaras, escriba las instrucciones necesarias para hacer que los primeros 4 pines del puerto C sean entradas, y los 4 últimos sean salidas. De los pines configurados como salida, dos cualesquiera estarán altos, y dos bajos.
 
