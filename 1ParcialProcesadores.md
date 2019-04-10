@@ -42,12 +42,12 @@ DE0 base16 =3552
 ABC base16 =2748
 1001 base16 =4097
 ## 10 Resuelve cada una de las siguientes sustracciones de 8 bits usando complemento de 2.
-011111112 - 78 base 10 = 
-001100102 - 123 base 10 =
-010010012 - 111 base 10 = 
+011111112 - 78 base 10 =  01111111-10110010 = ## 110011
+001100102 - 123 base 10 = 00110010-10000101 = ## 1010011
+010010012 - 111 base 10 = 01001001-10010001 = ## 11011010
 ## 11 Usando el datasheet del PIC16F886 identifique los siguientes puntos:
 •	¿Qué conjunto de instrucciones (ISA) usa?
-
+           RISC
 
 •	¿Qué rango de frecuencias puede generar el oscilador interno?
     8Mhz a 31 kHz
