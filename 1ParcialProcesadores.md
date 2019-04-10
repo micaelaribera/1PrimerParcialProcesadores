@@ -1,16 +1,16 @@
 ## 1 Describe qué es un MICROCONTROLADOR, y dibuja un DIAGRAMA DE BLOQUE con sus principales componentes
- El Microcontrolador es un circuito integrado y es como una pequeña computadora que incluye sistemas para controlar elementos de entrada/salida. También incluye a un procesador y por supuesto memoria que puede guardar el programa y sus variables (flash y RAM).  Funciona como una mini PC. Su función es la de automatizar procesos y procesar información
+ El Microcontrolador es un circuito integrado y es como una pequeña computadora que incluye sistemas para controlar elementos de entrada/salida. También incluye a un procesador y  memoria que puede guardar el programa y sus variables flash y RAM.  Funciona como una mini PC. Su función es la de automatizar procesos y procesar información.
 
 ## 2 escribe el CICLO DE INSTRUCCIONES de un microcontrolador. Puedes dibujar un diagrama de flujo para explicarlo.
-la funcion basica que realiza un computador es la ejecucion de programa. La secuencia de operaciones realizadas en la ejecucion de una instruccion constituye lo que significa ciclo de instruccion.
+la funcion basica que realiza un computador es la ejecucion de programa. La secuencia de operaciones realizadas en la ejecucion constituye lo que significa ciclo de instruccion.
 ## 3 Describe el MAPA DE MEMORIA. Puedes usar un diagrama para explicarlo, incluyendo el heap, stack, memoria de instrucciones, memoria de datos.
 Un mapa de memoria  es una estructura de datos  que indica cómo está distribuida la memoria. Contiene información sobre el tamaño total de memoria y las relaciones que existen entre direcciones lógicas y físicas, además de poder proveer otros detalles específicos sobre la arquitectura del computador.
 ## 4 El almacenamiento principal es también llamado
 
  Acumulador
- x Unidad de control
+  Unidad de control
   Unidad de registro
-  Memoria
+ x Memoria
  ## 5 ¿Cuál de las siguientes memorias es “no volátil”?
 
   SRAM
