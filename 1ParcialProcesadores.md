@@ -42,9 +42,9 @@ DE0 base16 =3552
 ABC base16 =2748
 1001 base16 =4097
 ## 10 Resuelve cada una de las siguientes sustracciones de 8 bits usando complemento de 2.
-011111112 - 7810 = 01111111 -  1001110 =
-001100102 - 12310 = 00110010 - 1111011 =
-010010012 - 11110 = 01001001 - 1101111 =
+011111112 - 78 base 10 = 
+001100102 - 123 base 10 =
+010010012 - 111 base 10 = 
 ## 11 Usando el datasheet del PIC16F886 identifique los siguientes puntos:
 •	¿Qué conjunto de instrucciones (ISA) usa?
 
